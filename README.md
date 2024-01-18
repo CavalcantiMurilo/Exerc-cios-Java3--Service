@@ -1,5 +1,5 @@
 # Boas-vindas!
-- O presente repositório busca compartilhar exercícios de Programação Orientada a Objetos e conceitos na linguagem Java.
+- O presente repositório busca compartilhar exercícios de Programação Orientada a Objetos e conceitos na linguagem Java com adição de classes Services.
 
 ## Enunciado dos Exercícios propostos
 - Cada Colchete [ ] faz referência ao arquivo contido no repositorio e seu referido enunciado.
